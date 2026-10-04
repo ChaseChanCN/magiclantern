@@ -1,0 +1,1738 @@
+unique strings: 1737
+ \n
+!!! DISABLE THIS OPTION WHEN YOU ARE NOT USING IT !!!  
+(cacheable, uncacheable, EDMAC, different data types...)
+(displayed as 'Zoom x1' on Canon' user interface)
+(e.g. Kingston 16GB 266x is known to require this)
+(empty)
+(in EVs above the noise floor)
+(memcpy, dma_memcpy, DMA unit, EDMAC unit)
+(upper theoretical limit, estimated from DxO measurements)
+(what exactly is considered highlight, midtone and shadow).
+* Computed time inacurate if ramping interval time
++ / -
++16px
++8px
+- / +
+-16px
+-8px
+... like this :)
+0 (Grayscale)
+0 EV
+0 dB
+0..255
+1 EV
+1 kHz
+1.0x = Canon default, 0.4x = 30minutes, 1.4x = fast card.
+10 dB
+1024
+10min
+110 Hz (A2)
+12 kHz
+128
+15s
+16
+17 dB
+1760 Hz (A6)
+1:1
+1:1 displays recorded pixels, 2:1 displays them doubled.
+1k
+1min
+1s
+1st deriv.
+1x, 3x
+2 EV
+2 dB (digital)
+2 kHz
+2-second delay
+20 dB
+2048
+20min
+220 Hz (A3)
+23 dB
+256
+26 dB
+262 Hz (Do)
+29 dB
+294 Hz (Re)
+2:1
+2k
+2min
+2nd deriv.
+2s
+2x
+3 EV
+3 dB
+30-minute timer
+30min
+30s
+32
+32 dB
+330 Hz (Mi)
+349 Hz (Fa)
+3520 Hz (A7)
+392 Hz (Sol)
+3:1
+3:2 (1.5)
+3rd p. flash LV
+3x...10x
+4 EV
+4 dB (digital)
+4096
+440 Hz (La-A4)
+494 Hz (Si)
+4:1
+4:3 (1.33)
+4k
+4x
+5 kHz
+512
+55 Hz (A1)
+5:3 (1.66)
+5:4 (1.25)
+5min
+5s
+6 dB
+6 dB (digital)
+64
+7:5 (1.4)
+880 Hz (A5)
+8k
+9:5 (1.8)
+=> adjust ISO, shutter speed and aperture without large jumps.
+A = average, B = instant bitrate, Q = instant QScale.
+A quick test which covers basic functionality. 
+A thorough test which randomly enables functions from menu. 
+A trick to allow 3rd party flashes to fire in LiveView.
+A-ISO smoothness
+ADTG 0x8178, 0x8196, 0x82F8
+ADTG 0x8179, 0x8197, 0x82F9
+AF microadjust
+AF/MF
+AF/MF warning
+AFMA mode
+AFMA scan type and range
+AGC
+ALO warning
+ALO/HTP
+AUTOEXEC.BIN
+AV curve
+AV range
+About Magic Lantern
+Abs: trigger enabled
+Abs: trigger value
+Absolute Zero Sharpness
+Access Mode
+Action type
+Active style
+Actual FPS
+Address to be analyzed. Press Q to select the digit to edit.
+Adjust AFMA value manually. Range: -100...+100.
+Adjust Aperture
+Adjust ISO
+Adjust Kelvin white balance and GM/BA WBShift.
+Adjust Kelvin white balance.
+Adjust Shutter
+Adjust and fine-tune ISO. Also displays APEX Sv value.
+Adjust aperture. Also displays APEX aperture (Av) in stops.
+Adjust color tone in current picture style.
+Adjust contrast in current picture style.
+Adjust dark level, as with 'dcraw -k'. Fixes green shadows.
+Adjust saturation in current picture style.
+Adjust sharpness fineness in current picture style.
+Adjust sharpness in current picture style.
+Adjust sharpness strength in current picture style.
+Adjust sharpness threshold in current picture style.
+Advanced Bracket
+Advanced bracketing (expo, flash, DOF). Press shutter once.
+Advanced intervalometer ramping options.
+Advanced settings
+Advanced: WBShift, RGB multipliers, Push-button WB...
+Advanced: digital ISO tweaks, HTP, ISO 50, ISO 800.000...
+After release you previos exposure will be restored.
+After running this a few times, you'll get ERR70.
+After running this a few times, you'll run out of memory.
+After you take a picture, press SET to add a voice tag.
+All Encrypted
+All Images
+Allocate 10MB of RAM
+Allocate and free a large block of RAM (16 MB); repeat 1000 times.
+Allocate up to 50000 small blocks, 32K each, until memory gets full.
+AllocateMemory
+AllocateMemory 1MB
+Allocated RAM
+Allocates 1MB RAM from any source, without freeing it.
+Allocates 1MB RAM using AllocateMemory, without freeing it.
+Allow
+Allow beeps
+Allow clipping
+Allowed actions
+Alpha blend
+Also up/down keys/joystick work as +/- rating if zoomed out.
+Also use ISO as bracket variable. Range: 100 - max AutoISO.
+Altering mode  
+Alternate ISO for every 2 sensor scan lines.
+Alternates ISO between frames. Flickers while recording.
+Always
+Always ON: just the Canon mode, press shutter twice.\n
+Always ON: when you take a pic, or continuously in LiveView\n
+Always On
+Always use LiveView (with manual lens or after lens swap).
+Ambient light
+Ambient light from the sensor under LCD, in raw units.
+Amount of jello effect. Multiply \"
+Analog Gain
+Analog ISO component (ISO at which the sensor is driven).
+Analog gain
+Analog mic boost.
+Anamorphic
+Anything still running after that would be secondary CPUs or hardware.
+Aperture
+Aperture 
+Arkanoid
+Arrow keys
+Arrow/SET shortcuts
+Ask for password on startup
+Aspect ratio used for anamorphic preview correction.
+At what shutter speeds you want to use handheld MLU.
+Audio Gain
+Audio Meters
+Audio RemoteShot
+Audio input: internal / external / both / auto.
+Audio input: internal / external / both / balanced / auto.
+Audio meters
+Auto
+Auto ETTR
+Auto Load Config at Start and/or Override BR/InitQP
+Auto Mirroring
+Auto adjust Green-Magenta
+Auto adjust Kelvin
+Auto adjust Kelvin + G/M
+Auto adjusts exposure, so you can focus manually wide open.
+Auto calibrate AF microadjustment ( youtu.be/7zE50jCUPhM )
+Auto compensate minimum ISO & minimum AV & EC changes.
+Auto expose to the right when you shoot RAW.
+Auto exposure
+Auto exposure on Zoom
+Auto int/ext
+Auto-Hide
+Auto-restart movie recording, if it happens to stop.
+Auto-update
+Autofocus, number of pics to take at once...
+Autoload Conf  
+Automatic Gain Control - turn it off :)
+Automatic exposure algorithm based on predefined curves.
+Autorun
+Av  -> 
+Av+MainDial
+Avg Bitrate
+B multiplier
+BLUE channel multiplier, for custom white balance.
+Background PW
+Background RSA
+Balance fine texture details vs strong high-contrast edges.
+Balanced
+Balanced (N/A)
+Bar peak decay, -40...0 dB, yellow at -12 dB, red at -3 dB.
+Battery
+Battery Icon
+Battery level
+Battery remaining. Wait for 2% discharge before reading.
+Be careful :)
+Be careful, won't take pics if it can't autofocus.
+Beep, start/stop
+Beep, test tones
+Before running, focus manually on a test target in LiveView.
+Benchmarks
+Benchmarks for focus peaking and menu backend (for now)
+Bit Rate
+Bit Rate     
+Bitmap
+Bitrate Info
+Bitrate settings
+Black Level
+Blinking dots
+Block shutter button while recording (avoids ERR99)
+Blocks get encrypted with the same 64 bit key. The smaller the more secure but slower.
+Blocksize
+Blue
+Blue LED
+Blue-Amber WBShift; 1 unit = 5 mireks on Kelvin axis.
+Bolt trigger
+Boost on WB adjust
+Boost when adjusting WB
+Bootflag settings
+Bottom bar
+Bottom-Left
+Bottom-Right
+Bracket focus
+Bracket type
+Bracketing sequence order / type. Zero is always first.
+Bright Gray
+Browse
+Btw: Real focus patterns aren't working on 6D (yet?).
+BuffWarnLevel
+Buffer R/W benchmark (5 min)
+Buffer write benchmark (inf)
+Build
+Bulb Duration
+Bulb ND
+Bulb Timer
+Busy tasks (ABS)
+Busy tasks (REL)
+CBR
+CBR Fixed QP
+CBR factor
+CF card
+CF card info: make and model.
+CF card workaround
+CF or SD card benchmarks
+CF+SD write benchmark (1 min)
+CID register contains some information about an SD card.
+CMOS[1] hi
+CMOS[1] lo
+CMOS[2]
+CRC7 checksum.
+CRC:
+Cache benchmark (RAM)
+Cache benchmark (RAM, no cache)
+Cache benchmark (ROM)
+Calls DisableBootDisk EvProc
+Calls EnableBootDisk EvProc
+Can be absolute or relative to primary ISO from Canon menu.
+Can select between Metric and Imperial focus distance units
+Canon analog ISO
+Canon digital ISO
+Canon's digital ISO component. Strongly recommended: 0.
+CanonMnu:Hold->PLAY
+Capability
+Card Benchmarks
+Card label
+Card settings
+Card test at startup
+Cartoon Look
+Cartoonish look obtained by emphasizing the edges.
+Causes excessive redraws for testing the graphics backend
+Causes intentionally wrong behavior to see DryOS reaction.
+Center
+Center (OFF)
+Center + 8 pts
+Center selection
+Center to x5 RAW
+Center/T/R/B/L
+Center/TL/TR/BR/BL
+Center/Top/Right
+Change 29:59 movie recording limit
+Change H.264 bitrate. Be careful, recording may stop!
+Change H.264 bitrate. Pick configs. Be careful, recording may stop!
+Change camera bootflag status
+Change current picture style.
+Change file prefix for dual ISO photos (e.g. DUAL0001.CR2).
+Changes FPS. Also disables sound and alters shutter speeds.
+Changes a DIGIC register to find out what it does. DANGER!
+Changes address to *(int*)addr [SET] or goes back [PLAY].
+Changes duration of the bulb timer
+Changes the Kelvin white balance
+Changes the interval between shots
+Changing FPS has side effects - choose what's best for you:
+Check
+Check card read/write speed with a 16MB buffer. Uses a 1GB temp file.
+Check how fast is your camera. Card, CPU, graphics...
+Check how fast peaking runs in PLAY mode (1000 iterations).
+Check memcpy speed using different subsystems.
+Check memory read/write speed using different methods.
+Check speed of menu backend.
+Check whether the 'mirror up' event is detected correctly.
+Checks various buffer sizes. You don't need it for raw video benchmarks,
+Choose a configuration preset.
+Choose af points directly, display OFF, arrows+SET.
+Choose an EV image indicator to display on the histogram.
+Choose an option, restart the camera to apply.
+Choose between YUV-based (JPG) or RAW-based histogram.
+Choose functions for arrows keys. Toggle w. 
+Choose how to start the focus stacking sequence.
+Choose mode :Notch,EQ,Notch/EQ,Enhance [12],Loudness.
+Choose patterns outside ML menu, display OFF, arrows+SET.
+Choose slitscan mode:
+Choose the available shutter speed range:
+Choose the behavior of SET key in ML menu:
+Choose the silent picture mode:
+Choose the variables to bracket:
+Choose what color channels are allowed to be clipped.
+Choose what type of raw stream we should use in LiveView.
+Choose when mirror lock-up should be active:
+Choose when the picture should be taken:
+Choose when to capture the image:
+Chose the action type to perform when triggered.
+CineStyle
+Circle of Confusion
+Circle of confusion used for DOF calculations.
+Clap your hands or pop a balloon to take a picture.
+Clear Keyframes
+Clear bitmap overlays from LiveView display.
+Clear overlays
+Clear screen when you hold shutter halfway or when idle.
+Clears all keyframes.
+Click to select some random register.
+Clip warning
+Clock
+Close register log
+Color
+Color Space
+Color Tone
+Color scheme
+Color scheme for bitmap overlays (ML menus, Canon menus...)
+Color space
+Color space for histogram: Luma channel (YUV) / RGB.
+Compare Images
+Complete user guide
+Config AutoSave
+Config Loaded 
+Config Loaded. Disabling may keep some of the parameters
+Config Select
+Config auto save, manual save, restore defaults...
+Config options
+Config preset
+Configure ML beeps and play test tones (440Hz, 1kHz...)
+Constant expo
+Continuous
+Contrast
+Contrast detection method. 2: more accurate, 1: less noisy.
+Copy rack focus range
+Copyright
+Corner correction        
+Correction applied between central area and corners.
+Correction with a stronger bias towards corners.
+Crazy color effects that may help with white balance.
+Create Keyframe
+Create RSA Key
+Create a new keyframe from the current camera settings
+Create a stuck task
+Create sidecar files with exposure compensation,
+Creates a task which will become stuck in an infinite loop.
+Creates a task which will clear the interrupts and execute while(1).
+Creative Effects
+Crop Factor Display
+Crop amount top/bot
+Crop info
+Crop mode
+Cropmarks
+Cropmarks are mostly used in movie mode.
+Cropmarks or custom grids for framing.
+Current value of selected register. Change w. HalfShutter.
+Custom AF patterns (photo mode only). Ported from 400plus.
+Custom REC/STANDBY notifications, visual or audible
+Custom file prefix
+Custom image file number (e.g. IMG_1234.JPG -> IMG_5678.JPG).
+Custom image file prefix (e.g. IMG_1234.JPG -> ABCD1234.JPG).
+Custom image folder num. You must take a picture to apply this setting.
+Customize Menus
+Customize image file naming for still pictures. Experimental.
+Cyan
+Cycle through all GUI modes and take screenshots.
+DC filter
+DCIM/100CANON/IMG_1234.JPG -> DCIM/123CANON/IMG_1234.JPG
+DIGIC poke
+DIGIC register address, mask=000000FC.
+DIGIC register address, mask=0000FF00.
+DIGIC register address, mask=FFFF0000.
+DM Log
+DNG is slow, but needs no extra post-processing.\n
+DOF Settings
+DOF formula
+DOF info in LiveView
+Dark
+Dark Gray
+Dark Green
+Dark Red
+Darken sharp edges in bright areas.
+Date
+Debug Console
+Debug mode
+Decimal -10..10
+Decimal -5..5
+Decimal -50..500
+Decimal -9..9
+Decimal 0..10
+Decimal 0..100
+Decimal 0..15
+Decimal 0..5
+Decimal 0..99
+Decimal 1..10000000
+Decimal 10..20
+Decimal 25..150
+Decrease if you get corrupted frames (dial the desired resolution here).
+Decrease if you get strange colors as you move the camera.
+Default
+Default value: 19 for APS-C and 29 for full-frame cameras.
+Defishing
+Deflicker percentile
+Deflicker target level
+Delay
+Delay before starting the exposure.
+Delay between mirror and shutter movement.
+Delay between the detected motion and the picture taken.
+Delay between two successive focus commands.
+Delete config
+Delete files quickly with SET+Erase (be careful!!!)
+Delete files quickly with fewer keystrokes (be careful!!!)
+Delete menu settings. Reboot to take effect.
+Delete selected file
+Delta ADTG 0
+Delta ADTG 1
+Delta HEAD3
+Delta HEAD4
+Desaturate
+Desired FPS
+Desired vertical resolution (only for presets with higher resolution).
+Detect RAM cache size by benchmarking (look for a sharp speed drop).
+Detect ROM cache size by benchmarking (look for a sharp speed drop).
+Detect Size
+Diagnostic options for modules.
+Dialog templates (up/dn) and color palettes (left/right)
+Dialog test
+Digital Gain
+Digital Volume and R-L gain
+Digital gain (LEFT). Any nonzero value reduces quality.
+Digital gain (RIGHT). Any nonzero value reduces quality.
+Digital gain (not recommended, use only for headphones!)
+DigitalZoom Shortcut
+Dim LCD display in LiveView when idle, to save power.
+Dim display
+Disable
+Disable all modules
+Disable bootflag
+Disable sharpening completely (below Canon's zero level).
+Disable the internal GPS at power off to save power.
+Disable the screen that lets you move the focus box before zooming
+Disable x10 zoom in LiveView.
+Disable x5 or x10, boost contrast/sharpness...
+Disable x5 zoom in LiveView.
+Disabled
+Disp preset
+Display
+Display + LiveView orientation: Normal / Reverse / Mirror.
+Display DOF above Focus distance, in LiveView.
+Display GUI events (button codes).
+Display LiveView image in grayscale.
+Display Shake
+Display a test pattern to see the color palette.
+Display during exposure
+Display memory contents in real-time (hexdump).
+Display the 35mm equiv. focal length including crop factor.
+Display the contents of the selected script.
+Display the image buffer sizes (LiveView and Craw).
+Display the image in grayscale.
+Display total CPU usage (percentage).
+Display type
+Display warning dots when one color channel is clipped.
+Displays overlay graphics upside-down and flips arrow keys.
+Displays raw contrast image (grayscale).
+Displays the tasks started by Canon and Magic Lantern.
+Division by zero
+Do not load ML if you start the camera with SET pressed (default)\n
+Do this ONCE at HOME and then store /priv.key on your PC safely.
+Don't allow
+Don't click me!
+DotTune AFMA
+Double Click
+Double-click top-right button in LV. Shortcuts or Zoom.
+Draw palette
+Drop that amount of lines on top and bottom each
+Dual ISO
+Dummy variables with various edit ranges.
+Dump DIGIC registers
+Dump ROM and RAM
+Dump all image buffers (LV, HD, RAW) from current video mode.
+Dump image buffers
+Duration between two shots.
+Duration of FPS ramping (in real-time, not in playback).
+Dynamic range gained
+EC
+EC curve
+EC range
+EDMAC screen test (infinite)
+EFIC chip temperature (raw values).
+EFIC chip temperature (somewhere on the mainboard).
+EV below overexposure.
+EV increment
+EV indic
+EXP: reacts to exposure changes (large movements).\n
+Edge + chroma
+Edge Emphasis
+Edge image
+Edit ISO settings.
+Edit ISO/Shutter settings.
+Edit Script
+Edit Shutter settings.
+Edit mode
+Either use a key combination and/or just an easier single keystroke.
+Elapsed
+Elapsed Time
+Electronic level
+Electronic level indicator in 0.5 degree steps.
+Emphasizes camera shake on LiveView display.
+Enable Beeps
+Enable advanced intervalometer ramping
+Enable beep signal for misc events in ML.
+Enable bootflag
+Enable boundary display for all elements.
+Enable movie recording on 50D :) 
+Enable to override active picture style while recording.
+Enable while recording
+Enable zoom when you hold the shutter halfway pressed.
+Enable/disable ML overlay graphics (zebra, cropmarks...)
+Enabled
+Enables 600D movie crop-mode
+Enables functions for SET when you use arrow shortcuts.
+Encoder
+Encryption
+Encryption mode
+End scanline (very rough). Increase if white bar at bottom.
+Enter editing screen.
+Enter/guess approximate strength above before beginning
+Equivalent ISO
+Every other frame
+Exact FPS
+Exact FPS (computed). For fine tuning, change timer values.
+Examples: IMG_1234.JPG -> ABCD1234.JPG, IMG_1234.JPG -> IMG_0001.JPG.
+Execute the selected script.
+ExpSim
+Experiment for finding optimal write buffer sizes.
+Experimental SRAW/MRAW mode. You may get corrupted files.
+Experimental hacks: flush rate, GOP size. Be careful!
+Experimental image filters found by digging into DIGIC.
+Expo bracket. M: changes shutter. Others: changes AEcomp.\n
+Expo. Lock
+Expo. Override
+Expo. Presets
+Exposure Adjust
+Exposure Compensation
+Exposure Fusion
+Exposure aid: display brightness from a small spot.
+Exposure aid: each brightness level is color-coded.
+Exposure aid: shows the distribution of brightness levels.
+Exposure aid: useful for checking overall brightness.
+Exposure compensation.
+Exposure difference between two frames.
+Exposure duration
+Exposure simulation (LiveView display type).
+Exposure simulation.
+Exposure target
+Exposure target for ETTR. Recommended: -0.5 or -1 EV.
+Ext. step edit
+Ext. steps
+Extended ISO/Shutter settings.
+Extended mode
+Extender
+External Source
+External stereo
+Extreme Chroma
+Extreme corner correction
+EyeFi Trick
+FPS
+FPS override
+FPS ramping
+FPS timer A
+FPS timer B
+FPS value for recording. Video will play back at Canon FPS.
+FPU Emu
+FW default
+False color
+False color palettes for exposure, banding, green screen...
+Fast
+Faster zoom in Play mode, for pixel peeping :)
+Fault emulation
+File Format
+File Manager
+File format to save the image as:
+File name
+File write test. Some cards may have compatibility issues.
+Filter bias
+Fine details
+Fine dots
+Fine-tune shutter speed in approx 20-microsecond increments.
+Fine-tune shutter value. Displays APEX Tv or degrees equiv.
+Fine-tune the focus detection algorithm:
+Firmware default / CBR (recommended) / VBR (very risky)
+Fixme: this will lock up if you change the video mode during the test.
+Flash / No flash
+Flash Delay
+Flash Tweaks
+Flash expo comp.
+Flash exposure compensation, 3rd party flash in LiveView...
+Flash exposure compensation, from -10EV to +3EV.
+Flashlight
+FlexInfo Settings
+Flood master with RPC requests and print delay. 
+Flush movie buffer every n frames.
+Flush rate
+Focal len
+Focus
+Focus Distance Units
+Focus End Point
+Focus Patterns
+Focus Peak
+Focus Ring
+Focus Settings
+Focus Shortcuts
+Focus Stacking
+Focus box
+Focus box settings
+Focus confirm
+Focus direction for Left and Right keys.
+Focus direction for Up and Down keys.
+Focus dist
+Focus peaking benchmark (30s)
+Focus peaking color (fixed or color coding).
+Focus peaking via DIGIC. No CPU usage!
+Focus steps / picture
+Focus using
+Focus with arrow keys. MENU while REC = save focus point.
+Focus+ZREC
+FocusR+HalfS
+Follow Focus
+For LiveView preview only. Does not affect recording.
+For LiveView preview only. Does not affect recording.\n
+For camera nerds.
+For intervalometer, audio remote shot and motion detect.
+For intervalometer, motion detect, trap focus, audio remote.
+For playback, go to Audio -> Sound Recorder.
+For preview only - adjust display saturation.
+For raw video, you want to run it either in movie mode or in PLAY mode.
+For troubleshooting.
+For very long exposures (several minutes).
+Force HDMI-VGA
+Force LiveView
+Force low resolution (720x480) on HDMI displays.
+Force style for REC
+Formula for computing the depth of field:
+Frame skip
+Frames
+Free Memory
+Free memory available as stack space for user tasks.
+Free memory from SRM_AllocateMemoryResourceFor1stJob.
+Free memory, shared between ML and Canon firmware.
+Free space
+Freeze the GUI task
+Freezes main GUI task. Camera will stop reacting to buttons.
+Frequency for ML beep and test tones (Hz).
+Full Z on last pos.
+Full zoom on AF pt.
+FullScreen
+G multiplier
+GB
+GOP size
+GPS Power Save
+GREEN channel multiplier, for custom white balance.
+Gain applied to both inputs in analog domain (preferred).
+Gain applied to both inputs in analog domain.
+Ghost image
+Global Draw
+Global Focus
+Go to My Menu every time you open ML menu.
+Gradual Exposure
+Grayscale
+Grayscale image
+Grayscale img.
+Grayscale recording. Use WB or pic styles for fine tuning.
+Green
+Green Bars
+Green-Magenta white balance shift, for fluorescent lights.
+H.264 bitrate. One unit = 10 mb/s.
+H.264 bitrate. One unit = 10 mb/s. 0 = Off
+HDR
+HDR video
+HPF2 Cutoff Hz
+Hack to adjust slowest shutter from main dial.
+HalfShutter
+Handheld Debug
+Handheld Delay
+Handheld Shutter
+Headphone Mon.
+Headphone Volume
+Hex 0..1FF
+Hex 0..3FF
+Hex 0..7
+Hex 0..F
+Hex 0..FF
+Hex 0..FFFFFFFF
+Hex 100..3FF
+HexDump
+HiJello, FastTv
+Hide
+High
+High FPS
+High Jello
+High Pass filter
+High pass filter for wind noise reduction.
+High pass filter for wind noise reduction. ML26121A.pdf p77
+High values = lower FPS, more jello effect, faster shutter.
+High values = lower FPS, shutter speed converges to 1/fps.
+Higher values = less sensitive to motion.
+Highlight ignore
+Highlights/shadows will be half res, with aliasing/moire.
+Histo/Wavefm
+HistoBar
+Histogram
+Histogram [SET] and Waveform [Q] for evaluating exposure.
+Histogram type
+Hold AF button
+Hold SET to take a bulb exposure based on current expo settings
+Horizontal position / binning.
+Horizontal selection
+How fast the exposure transitions should be.
+How many bright pixels are allowed above the target level.
+How many pictures to take at once (for each trigger event).
+How many pictures to take when the subject comes in focus.
+How many pixels are considered in focus (percentage).
+How to change current value [HalfShutter]. MF(+) / AF(-).
+How to display peaking. Alpha looks nicer, but image lags.
+How to show focus confirmation (green bars / split screen).
+How to trigger the intervalometer start:
+However some SD cards prefer SDR50 for high frequencies.
+Hrs
+IRE -1..101
+IRE 0..108
+IS
+ISO
+ISO 
+ISO -> 
+ISO A
+ISO B
+ISO Range
+ISO Selection
+ISO curve
+ISO equivalent (analog + digital components).
+ISO for half of the scanlines (usually to recover shadows).
+ISO icon
+ISO range
+ISO shifting
+ISO tweaks. Negative gain has better highlight roll-off.
+ISO val
+ISO value for one half of the frames.
+ISO value for the other half of the frames.
+ISO/Kelvin
+If ON, you have to hold half-shutter pressed for 1 second.
+If RAW data is not available, it will fall back to YUV-based.
+If enabled, ML settings are saved automatically at shutdown.
+If modules have .hid files, show them anyway. Requires restart.
+If not loading a config MUST set InitQP
+Image Fine-tuning
+Image Review
+Image buffers
+Image file naming
+Image file number
+Image file prefix
+Image folder number
+Image position
+Image review settings
+In M mode, adjust Tv/Av/ISO without changing exposure.
+Include current Aperture in Keyframe
+Include current ISO in Keyframe
+Include current Shutter in Keyframe
+Increase LiveView saturation when adjusting white balance.
+Increase SharpContrast
+Increase sharpness and contrast when you zoom in LiveView.
+Info screen test (infinite)
+Init QP - Lower is better. 0 = Off
+InitQP     
+Input Volume
+Input source
+Instant Bitrate
+Internal Temp
+Internal mic
+Interval Time
+Intervalometer
+Intervalometer Script
+It may change the way you use M mode. Maybe I'm just crazy.
+Joystick long-press
+K ICON1
+K ICON2
+Keep console shown after modules were loaded
+Keep the same exposure (brightness) as with default FPS.
+Kelvin
+Kelvin (clear)
+Key Shortcuts
+Key size when creating a RSA key pair. The smaller, the less security you have.
+Keyframe Time
+Kill Canon GUI
+L/R & Set+Dial
+L:int R:balanced
+L:int R:ext
+LCD Bright/Saturation
+LCD Sensor Shortcuts
+LCD sensor
+LCDsensor Remote
+LED will blink every 10s. WARNING: this limit is there for good reason!
+LED, popup
+LED, popup, beep
+LED, popup, rep. beep
+LEFT/RIGHT: ISO. UP/DN: Kelvin white balance. SET: PushWB.
+LEFT/RIGHT: LCD bright. UP/DN: LCD saturation. SET: reset.
+LEFT/RIGHT: Shutter. UP/DN: Aperture.  SET: 180d shutter.
+LEFT/RIGHT: input gain. UP/DOWN: output gain. SET: Input.
+LUT for increasing contrast in the zoom box.
+LV DIGIC peaking
+LV Display
+LV Display Presets
+LV brightness
+LV button
+LV contrast
+LV crazy colors
+LV display gain
+LV raw type
+LV saturation
+Large
+Largest contiguous block from shoot memory.
+Largest fragmented block from shoot memory.
+Last PC
+Left Digital Gain
+Left Digital Gain 
+Left/Right
+Left/Right dir
+Lens
+Lens ID
+Lens Info Prefs
+Lens aperture
+Lens info
+Let ETTR change DualISO settings so you get the SNR values
+Level
+Level Indicator
+Linear
+Linear or logarithmic histogram.
+Link to Canon shutter
+Link to Dual ISO
+List Keyframes
+Lists all keyframes
+LiveView
+LiveView zoom tweaks
+LiveView: adjust Green-Magenta once for the current scene.
+LiveView: adjust Kelvin and G-M once (Push-button WB).
+LiveView: adjust Kelvin value once for the current scene.
+Load Config
+Load H264.ini     
+Load modules after crash
+Load modules even after camera crashed and you took battery out.
+Load this script in the text editor (EDITOR.LUA).
+Local Focus
+Lock shutter value in movie mode (change from Expo only).
+Lock-up the ARM CPU
+Log
+Log DebugMessages
+Log TryPostEvents
+Logarithmic
+Look-up Table
+Loop After
+Loops keyframe sequence after x frames
+Low
+Low Jello, 180d
+Low light
+Low priority tasks (prio >= 0x1A) will no longer be able to run.
+Low-level manual exposure controls (bypasses Canon limits).
+Luma
+Luma Fast
+Luma: red/blue. RGB: color is reverse of clipped channel.
+Luma: red/blue. RGB: show color of the clipped channel(s).
+MDT:
+MID:
+ML Digital ISO
+ML digital ISO
+ML should save a crash log about 0xBAADBAAD and should not crash.
+ML will pause CPU-intensive graphics if buffer gets full.
+MLU
+MLU delay used with intervalometer, bracketing etc.
+MLU mode
+MLU tricks: hand-held or self-timer modes.
+MOV/MP4 time limit
+MVI number
+Magenta
+Magic Zoom
+Magnification
+Main Clock
+Main dial changes curve offset. Left & right sets EV steps per BV.
+Make status beeps (1 = OK, 2 = need more pictures, 3 = error).
+Make sure that it corresponds to your extended ISO settings.
+Make sure your preferred card is selected at startup.
+Makes LiveView usable in complete darkness (photo mode).
+Makes the DOF preview button sticky (press to toggle).
+Makes the half-shutter button sticky (press to toggle).
+Manual Load Config from selection
+Manufacture Date Code.
+Manufacturer ID.
+Max ISO Range
+Max Movie AutoISO
+Maximum value for Auto ISO in movie mode.
+May help pushing the resolution a little. Start with small increments.
+May make the image easier to see from difficult angles.
+Measure ND
+Measure the strength of an ND filter
+Measurement unit for brightness level(s).
+Medium
+Memcpy benchmark (20s)
+Memory Benchmarks
+Memory Browser
+Memory benchmark (1 min)
+Memory leak test (1 minute)
+Memory or cache benchmarks
+Memory patches
+Memory reserved statically at startup for ML binary.
+Menu Preferences
+Menu backend test (infinite)
+Menu benchmark (10s)
+Menu edit tests
+Menu screenshots
+Method
+Mic Boost
+Mic Power
+Mid-range correction     
+Midtone SNR limit
+Midtone overlapping
+Might conflict with Dual ISO prefixes (to be tested).
+Min
+Min Movie AutoISO
+Minimum value for Auto ISO in movie mode.
+Mirror
+Mirror Lockup
+Misc Benchmarks
+Misc key settings
+Misc options related to shortcut keys.
+Mode
+Mode 1
+Mode 2
+Mode 3
+Mode warning
+Module
+Module info
+Modules debug
+Monitoring via A-V jack. Disable if you use a SD display.
+Motion Detect
+Move the focus box faster (in LiveView).
+Movie
+Movie Logging
+Movie Record
+Movie Restart
+Movie Restart, Movie Logging, REC/Standby Notify...
+Movie Tweaks
+Movie crop mode
+Movie: DISP + Zoom In toggles between 1x and 3x modes.
+ND Strength
+NO LENS NAME
+Name
+Needed for int. and some other mics, but lowers impedance.
+Negative
+Negative image. Inverts all colors :)
+New Keyframe...
+No further writes will be performed on your card from the camera.
+Normal
+Normal (OFF)
+Normal MLU Delay
+Note: this will not remove the saved sequence.
+Null pointer test (quick)
+Num. of LV display presets. Switch with 
+Num. pics behind
+Num. pics in front
+Number of ISO/Shutter settings.
+Number of bracketed shots. Can be computed automatically.
+Number of focus steps between two pictures.
+Number of mechanical shutter actions (incl. sensor cleaning)
+Number of mirror move actions (DSLR, 0 on mirrorless)
+Number of photos made. Incl. silent (electronic) shots
+Number of pics
+Number of pics taken + number of LiveView actuations
+Number of seconds before starting focus operation.
+Number of shots behind current focus point.
+Number of shots in front of current focus point.
+Number of shutter actions. Open submenu to learn more.
+Number of time to check for focus confirmation.
+Numbers represent the percentage of pixels clipped.
+Nyquist H
+OEM/Application ID.
+OFF
+OFF (1)
+OID:
+ON
+ON (fast zoom)
+ON, all modes
+Off
+Off/H264.ini
+On
+On some lenses, this may be reversed.
+Only used if you start bracketing by pressing the shutter.
+Optimize for
+Options for PLAY (image review) mode.
+Options for reducing power consumption during idle times.
+Orientation
+Original: default range used by Canon in selected video mode.\n
+Other ML features may use the options below (e.g. intervalometer in LV).
+Output volume for audio monitoring (headphones only).
+Overexposure
+Overexposure threshold.
+Overlay any image in LiveView. In PLAY mode, press LV btn.
+Override
+Override audio setting by ML
+Override audio settings
+Overriding dynamic configs will result in fixed QP
+PLAY: quick start.
+PNM:
+PROP Display
+PRV:
+PSN:
+Palette
+Palette      
+Panini
+Password
+Percent
+Percentage
+Percentage of overall brightness level.\n
+Performs some math operations which will divide by zero.
+Photo only
+Photo, ExpSim
+Photo, no ExpSim
+Pic Quality
+Pic.Style
+Pickbox
+Pickbox: SET shows a list of choices, select and confirm.\n
+PicoC scripts...
+Pics
+Pics (clear)
+Pics at once
+Pict.Style / PLAY
+Picture Style
+Picture taken when sound level becomes X dB above average.
+Place your scripts under ML/SCRIPTS directory.
+Play a 5-second test tone with current settings.
+Play a short beep which will be used for ML events.
+Play back a WAV file, in built-in speaker or headphones.
+Play mode actions
+Play test tone
+Playback selected file
+Plot height
+Pointer dereference
+Position
+Position of top/bottom bars, useful for external displays.
+Position of zoom box (fixed or linked to focus box).
+Post Deflicker
+Post scripts
+Post-bolt frame count
+Post-processing scripts for bracketing and focus stacking.
+Powersave always works during standby; optionally also while recording.
+Powersave in LiveView
+Preferences related to SD/CF card operation.
+Preferred card
+Press 
+Press Av / PLAY
+Press FUNC / PLAY
+Press JUMP / PLAY
+Press MENU
+Press PLAY
+Press Q / PLAY
+Press SET for detailed info.
+Press SET for rack focus, or PLAY to also start recording.
+Press SET to load/run this script.
+Press SET to start or stop recording.
+Prevent Canon firmware from turning off LiveView after 30 minutes.
+Prevents display mirroring, which may reverse ML texts.
+Preview straightened images from fisheye lenses. LV+PLAY.
+Product Name.
+Product Revision.
+Projection
+Projection used for defishing (Rectilinear or Panini).
+Protect Image
+QScale
+Quality factor (-16 = best quality). Try not to use it!
+Quality warning
+Quick Erase
+Quick R/W benchmark (1 min)
+Quick Zoom
+Quick test (around 15 min)
+QuickReview
+QuickReview default
+Quickly toggle between two expo presets (ISO,Tv,Av,Kelvin).
+R multiplier
+RAW (EV)
+RAW EV indicator
+RAW HistoBar (MAX)
+RAW recording
+RAW zebra underexposure threshold
+RAW-based (RGB)
+REC indicator
+REC indicators
+REC key
+REC/STBY
+REC/STBY notify
+RED channel multiplier, for custom white balance.
+RGB
+RGB (HTML)
+RGB (Percent)
+ROM0.BIN:      NA, ROM1.BIN:FE000000, RAM4.BIN
+ROM0.BIN:E0000000, ROM1.BIN:F0000000, RAM4.BIN
+ROM0.BIN:F0000000, ROM1.BIN:F8000000, RAM4.BIN
+RPC reliability test (infinite)
+RSA
+RSA (paranoid)
+RSA Keysize
+Rack Focus
+Ramp between overridden FPS and default FPS. Undercrank only.
+Ramp duration
+Ramping options
+Ramping speed
+Random register
+Random tests (infinite loop)
+Rate Control
+Rate Image
+Raw
+Raw property display (read-only)
+Raw zebra underexposure
+Read CF details (MAY CAUSE ERR)
+Read the contents of CID register.
+Read-only.
+Read-only. Lenses from different manufacturers may have the same ID.
+Read-only. Should match exiftool TEST.CR2 -LensSerialNumber .
+Read-only. Zoom lenses are only updated in LiveView.
+Record
+Record 14-bit RAW video of lightning bolts.
+Record Digital Volume 
+Record Digital Volume. 
+Record Effect Mode
+Record RAW data instead of YUV422 (no decoder yet)
+Record and playback short audio clips (WAV).
+Record audio with WAV separately.
+Record audio with WAV separately. Source will auto select.
+Record every n-th frame
+Record into one single file (it is faster)
+Recording
+Recovery ISO
+Rectangle test (infinite)
+Rectilinear
+Red
+Red Crossout
+Redraw test (infinite)
+Register base  
+Register family
+Register offset
+Rel: trigger enabled
+Rel: trigger value
+Remain.4GB
+Remain.Card
+Remain.time (card)
+Remaining Time
+Remember last Zoom pos
+Remember last Zoom position in playback mode.
+Rename 422 files to MP4 (trick for EyeFi cards).
+Rename 422 to MP4
+Rename AVI to CR2
+Rename CR2 files to AVI (trick for EyeFi cards).
+Rename CR2 to AVI
+Rename MP4 to 422
+Rename back AVI files to CR2 (trick for EyeFi cards).
+Rename back MP4 files to 422 (trick for EyeFi cards).
+Require long press
+Reset menu settings
+Reset setup
+Resolution preset
+Restore ML defaults
+Results saved in BENCH.LOG.
+Reverse
+Right Digital Gain
+Rolling shutter
+RscMgr
+Run C scripts with TinyCC, http://bellard.org/tcc/.
+Run Canon's SD autotune. You can benchmark to check improvement
+Run Script
+Run before uploading files to a Wi-Fi card, to avoid data corruption.
+Run focus stack
+Run script
+Run small C-like scripts. http://code.google.com/p/picoc/
+Run the focus stacking sequence.
+SD Frequency
+SD Overclock
+SD bus clock. Applied at module load; restart to take effect
+SD frequency
+SD speed autotune
+SDR104 mode may be required for >100 MHz. It's ON by default.
+SET / 
+SET / main dial
+SET action
+SET at startup
+SET+Erase
+SET+MainDial
+SRM job total
+SRM memory test (5 minutes)
+SS ZeroCross
+Same TV curve
+Saturation
+Save Keyframes
+Save ML settings to current preset directory.
+Save config
+Save config now
+Save current keyframes to file.
+Save menu settings
+Save metadata for each movie, e.g. MVI_1234.LOG
+Saves the contents of DIGIC shadow copy to DIGIC.LOG.
+Scaling
+Scaling for input signal (useful with flat picture styles).
+Scan from top to bottom as picture is taken.\n
+Scan passes
+Scan type
+Scanlines
+Screen Layout
+Screen orientation, position fine-tuning...
+Screen will be captured when you leave this menu.
+Screenshot - 10s
+Screenshot after 10 seconds => VRAMx.BMP.
+Script parameter #1
+Script parameter #2
+Script parameter #3
+Script parameter #4
+Script parameter #5
+Script parameter #6
+Script parameter #7
+Script parameter #8
+Script parameter #9
+Scripts for sorting intervalometer sequences.
+Sec
+Second game for Magic Lantern. Try it in LiveView.
+Seconds between stack segments to let flashes recycle.
+See lv_af_raw, lv_rshd_raw, lv_set_raw, KindOfCraw...
+Select a center-based AF pattern with LEFT and RIGHT keys.
+Select a file name for playback.
+Select a horizontal AF pattern with LEFT and RIGHT keys.
+Select a vertical AF pattern with LEFT and RIGHT keys.
+Select actions for half-shutter.
+Select an Encoder Config. If off H264.ini will load. Exit menu to apply.
+Select script
+Select the encryption mode. The higher the level, the less comfort you have.
+Select whether this script will be loaded at camera startup.
+Select which PicStyle to use while recording.
+Self tests
+Separate WAV
+Sequence
+Serial Number.
+Serial num
+Set GOP size to n frames.
+Set keyframes by global time (time of day)
+Set line skipping to get this resolution
+Set minimum shutter value.
+Set password
+Set the cut off frequency for noise reduction
+Set+MainDial
+Sets up stack focus to use the same range as rack focus.
+Settings about Depth of Field info displays.
+Several helpful image actions you can trigger in PLAY mode.
+Shadow SNR limit
+Sharpness
+Sharpness fineness
+Sharpness strength
+Sharpness threshold
+Shift the entire display left and right with EDMAC routines.
+Shoot Preferences
+Shoot one image with the hack, one without.
+Shortcut key for enabling powersave modes right away.
+Shortcut keys
+Show
+Show CID info
+Show CPU usage
+Show GUI events
+Show Overlay
+Show Overlay FPS
+Show boundaries
+Show console
+Show current lens ID. Should match exiftool TEST.CR2 -LensType -b.
+Show current lens capability bits.
+Show current lens extender information byte.
+Show current lens focal length.
+Show current lens name (as reported by your lens or adapter).
+Show current lens serial number. Not all cameras report this.
+Show current lens version string.
+Show debug info
+Show fake images
+Show graph
+Show hidden modules
+Show in PLAY mode
+Show in photo mode
+Show memory addresses patched in Canon code or data areas.
+Show metered areas
+Show properties as they change.
+Show script
+Show tasks
+Show the frame rate of overlay loop (zebras, peaking...)
+Show where the white point and the SNR levels are metered
+Show which parts of the image are in focus.
+Show/hide script console.
+Shows color distribution as U-V plot. For grading & WB.
+Shutter
+Shutter 
+Shutter Button
+Shutter Count
+Shutter Lock
+Shutter fine-tuning
+Shutter range
+Shutter speed range, when Canon shows 1/30-1/4000.
+Shutter/Aperture
+Sidecar file format, for deflicker metadata.
+Sidecar file type
+Silent Mode
+Silent Picture
+Simple: only consider defocus blur, ignoring diffraction effects.\n
+Simulate minimum aperture value.
+Sine
+Single file
+SinglePress -> 100%
+Size
+Size of the area on which motion shall be detected.
+Size of zoom box (small / medium / large / full screen).
+Size of zoom box (small / medium / large).
+Slightly sharper
+Slit-Scan Mode
+Slowest shutter
+Slowest shutter speed for ETTR (longest exposure time).
+Slows down the CF write speed to let you use certain cards.
+Small
+Small-block malloc test (quick)
+Snap Simulation
+Snap points
+Snap the focus box to preset points (press CENTER key)
+Sound
+Sound Record
+Sound Recorder
+Sound goes out of sync, so it has to be recorded separately.
+Space
+Space (clear)
+Space GB
+Space Pics
+Speaker Volume
+Speed
+Speed for movie Auto ISO. Low values = smooth transitions.
+SplitScreen
+Spot Position
+Spotmeter
+Spotmeter Unit
+Spotmeter position: center or linked to focus box.
+Spy properties
+Square
+Start
+Start Delay
+Start Scan
+Start after
+Start image capture on half-shutter press (quick).\n
+Start in MyMenu
+Start in front or behind focus (varies among lenses)
+Start recording
+Start recording by pressing shutter halfway. Wired remote.
+Start scanline (very rough). Use for vertical positioning.
+Start the intervalometer after X seconds / minutes / hours.
+Start trigger
+Step 1: achieve critical focus in LiveView with 10x zoom.
+Step 2: run this and leave the camera still for ~2 minutes.
+Step Delay
+Step Size
+Step Wait
+Step size for focus commands (same units as in EOS Utility)
+Sticky DOF Preview
+Sticky HalfShutter
+Stop after
+Stop the intervalometer after taking X shots.
+Stop underexposing when at least 5% of the image gets
+Stop underexposing when at least half of the image gets
+Strength of ND Filter in EV
+Stresses graphics bandwith. Run this while recording.
+Stretch Ratio
+Stretches LiveView image vertically, for anamorphic lenses.
+Strong edges
+Strong edges: looks for edges, works best in low light.\n
+Stubs API test
+Style for recording
+Subtle image enhancements via DIGIC register tweaks.
+Swap INFO <--> PLAY
+Swap MENU <--> ERASE
+Swap U-V
+Swaps INFO and PLAY buttons.
+Swaps MENU and ERASE buttons.
+Swaps U and V channels (red <--> blue).
+Switches INFO screens very quickly.
+Sync FPS with shutter speed, for long exposures in LiveView.
+Sync w. Shutter
+TV minimum
+Take a pic
+Take a pic every
+Take a picture when subject is moving or exposure changes.
+Take a screenshot for each ML menu.
+Take a silent picture when you press the shutter halfway.\n
+Take darker images.\n
+Take odd pictures with flash, even pictures without flash.
+Take pics in LiveView without moving the shutter mechanism.
+Take pictures at fixed intervals (for timelapse).
+Takes a picture when the subject comes in focus. MF only.
+Takes pictures at different focus points.
+Tap or press PLAY
+Target YRES
+Task
+Task info: ID, name, priority, wait_id, mem, state.
+Task info: name, priority, stack memory usage.
+Task list
+Temp
+TempBG
+Temperature
+Test FPU
+Test GUI modes (DANGEROUS!!!)
+Test beep sound
+Test: RSA
+Test: Speed
+Tests Canon functions called by ML. SET=once, PLAY=100x.
+Tests SRM memory allocation routines.
+Tests proper usage of Canon API calls in ML menu backend.
+Tests to make sure Magic Lantern is stable and won't crash.
+Tests various functions for thread safety. WIP.
+The camera may turn into a 1DX or it may explode.
+The focus offset in steps
+The frame at which to apply this keyframe
+The screenshot will contain BMP and YUV overlays.
+This changes Canon card selection at startup - nothing else.
+This checks if the speed drop is indeed caused by cache overflow.
+This feature only works as long as you don't trigger autofocus.
+This restores ML default settings, by deleting all CFG files.
+This sequence will be auto-loaded at startup.
+This used to crash the 500D if the test was run while recording.
+This works by lowering ISO => you may get pink highlights.
+Thread safety test
+Threshold
+Time
+Time 0..10s
+Time 0..1h
+Time 0..1m
+Time 0..24h
+Time 0..500ms
+Time 113..512
+Time Indicator
+Time Until 4GB
+Time indicator
+Time indicator while recording.
+Timelapse Play
+Timing generator freq. (READ-ONLY). FPS = F/timerA/timerB.
+Tip: if it gets really dark, also enable FPS override.
+Tip: in photo mode, it makes LiveView usable in darkness.
+Tip: it prevents you from changing it by mistake.
+Tip: load the 'plot' module to get a nice graph.
+Tip: press MENU to interrupt the stacking sequence.
+Tip: set this to -1 for a nice vignette effect.
+To change this setting: Prefs -> Config options
+To start ramping, press 
+To trigger, hold shutter pressed halfway for 1 second.
+Toggle
+Tone Frequency
+Tone Waveform
+Too long recording makes empty files on ExFAT, ok on FAT32
+Top bar
+Top-Left
+Top-Right
+Total Mirror
+Total Shots
+Total Shutter
+Total memory allocated by ML. Press SET for detailed info.
+Trap Focus
+Trigger Magic Zoom by focus ring or half-shutter.
+Trigger Mode
+Trigger by
+Trigger key(s)
+Trigger level
+Trigger level (dB)
+Trigger mode
+Try 75% if you get black borders (e.g. Samyang 8mm on 5D).
+TryPostEvent Log
+Tuning parameters and prefs for rack/stack/follow focus.
+Turn off GlobalDraw
+Turn off GlobalDraw when idle, to save some CPU cycles.
+Turn off LCD
+Turn off display. Will also pause LiveView if not recording.
+Turn on the front LED [PLAY] or make display bright [SET].
+Turn the screen on/off while taking bulb exposure.
+Tv  -> 
+Tweaks for LiveView focus box: move faster, snap to points.
+Type of waveform to be generated: square, sine, white noise.
+UV scaling
+Underexposure
+Underexposure threshold.
+Unmount SD card
+Up/Down dir
+Update the overlay whenever you take a picture.
+UpsideDown mode
+Use Autofocus
+Use Av+MainDial together to perform selected action.
+Use Global Time
+Use LCD sensor
+Use RAW zebras
+Use RAW zebras if possible.
+Use SET button
+Use canon screen for edit
+Use for horizontal centering.
+Use in LV
+Use left & right for minimum. Main dial for maximum.
+Use shortcut key
+Use smooth exposure transitions, by compensating with ISO.
+Use the LCD face sensor as a simple remote (avoids shake).
+Use the LCD face sensor as an extra key in ML.
+Use the old Zoom In button, as in 5D2. Double-click in LV.
+Use this module with an external intervalometer
+Use this to allow spec(ta)cular highlights to be clipped.
+Used to compute bulb time from current settings
+Useful for long exposures, manual lenses, manual video ctl.
+VBR
+VBR (QScale)
+Val hex32
+Val int16
+Val int32
+Val int8
+Val string
+Value          
+Value as 2 x int16. Toggle: changes second value.
+Value as 4 x int8.
+Value as hex.
+Value as int32.
+Value as string.
+Vectorscope
+Version
+Vertical selection
+Very high
+Very low
+Video Hacks
+Vignetting
+Vignetting correction or effects.
+Voice Tags
+Volume for ML beeps and WAV playback (1-5).
+WB BA
+WB GM
+WB warning
+WBShift B/A
+WBShift G/M
+Wait for 'focus done' signal before sending next command.
+Warn if some of your settings are changed by mistake.
+Warn if you change the picture quality to something else.
+Warn if you disable AWB by mistake.
+Warn if you enable ALO by mistake.
+Warn if you turn the mode dial to some other position.
+Warn on Manual / Automatic Focus
+Warn type, LED, Messagebox, Beep
+Warning for bad settings
+Warning message
+Waveform
+Waveform Size
+Waveform size: Small / Large / FullScreen.
+What ISOs should be available from main menu and shortcuts.
+What to display in top-right corner while recording.
+What to do when you press SET and turn the scrollwheel.
+When enabled it will ask for the encryption password right after camera powerup.
+When recording
+When should the exposure be adjusted for ETTR:
+When to display ML overlay graphics (zebra, histogram...)
+When you change Av, ML adjusts Tv and ISO to keep exposure.
+When you change ISO, ML adjusts Tv and Av to keep exposure.
+When you change Tv, ML adjusts Av and ISO to keep exposure.
+When you exit ML menu, or at camera startup.\n
+When you press halfshutter exposure will be set.
+When you set \"ImageReview: Hold\", it will go to Play mode.
+WhenIdle
+Where to apply the AFMA adjustment.
+Where to apply the AFMA adjustment:
+Where to meter for deflicking. Recommended: 50% (median).
+Where to place the exposure level for processed pics
+Which images should get replaced by fake images.
+While recording only. -40...0 dB, yellow -12 dB, red -3 dB.
+White Balance
+White Noise
+Will not sync properly in burst mode or when taking pics quickly.
+Wind Filter
+With some clever post, you get less shadow noise (more DR).
+With the LCD sensor you may wakeup or force powersave mode.
+Workarounds for disabling Canon graphics elements.
+Write speed on both CF and SD cards at the same time.
+Writes 0xBAADBAAD to address 0 (simulating a null pointer error).
+Wrong Password
+YUV-based, Luma
+YUV-based, RGB
+Yellow
+You can draw your own cropmarks in Paint.
+You can fine-tune this, but don't expect miracles.
+You can focus with arrow keys or with the LCD sensor
+You can hide the focus box (the little white rectangle).
+You can hide zebras when recording.
+You can link MLU with self-timer (handy).
+You can take virtual (fake) pictures just for testing.
+You can toggle MLU w. DirectPrint or link it to self-timer.
+You have to press halfshutter for a while.
+You may also have cropmarks in Playback mode.
+You may get higher bitrates if you record sound separately.
+You may use the LiveView button to protect images quickly.
+You may use the LiveView button to protect or rate images.
+You should clear all keyframes when switching this setting
+You should have a valid image on the card.
+You will need to restart the camera for the changes to take effect.
+You'll have to take the battery out after running most of these.
+Zebra stripes: show overexposed or underexposed areas.
+Zebras
+Zero
+Zoom In
+Zoom box for checking focus. Can be used while recording.
+Zoom on HalfShutter
+Zoom when recording / trigger from focus ring / Zoom button
+Zoom when you turn the focus ring (only some Canon lenses).
+Zoom with Focus Ring
+Zoom with old button
+Zoom x1
+Zoom x10
+Zoom x5
+Zoom.REC
+ZoomIn (+)
+[GLOBAL] If you hold the SET button pressed at camera startup:
+[Q]: fix here rack end point. SET+L/R: start point.
+[READ-ONLY] How much more DR you get with current settings
+[READ-ONLY] How much of midtones will get better resolution
+aperture
+but if you want to optimize the video buffering algorithms, try it.
+disable
+dist
+first-order high pass filter for DC cut
+focal
+focal mm
+http://www.magiclantern.fm/forum/index.php?topic=9673.0
+in mids & shadows. It will disable dual ISO if not needed.
+malloc
+menu_icons
+mode
+noisier than selected SNR => will clip more highlights.
+normal
+or hold it pressed halfway (enables image stabilization).
+other than AF
+other than AWB
+other than Av
+other than M
+other than MF
+other than OFF
+other than P
+other than RAW
+other than Tv
+other than fine
+popup only
+popup, beep
+popup, rep. beep
+rand()
+rep. popup
+reverse
+second-order high pass filter for noise cut
+shoot contig
+shoot total
+shoot_malloc
+shutter
+so all your pics look equally exposed, without flicker.
+srm_malloc
+stack space
+task_mem
+time :
+time hrs
+time min
+wbmode
+x += (1<<16)
+x += (1<<24)
+x += (1<<8)
+x++
+°C
