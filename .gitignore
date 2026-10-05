@@ -76,4 +76,15 @@ modules/*/*/build
 developer_guide/developer_guide.html
 developer_guide/developer_guide.pdf
 
+TODO.txt
+LLM_POLICY.md
+build_all_results.txt
+release_payload.json
+build_zh_70D.sh
+fix_and_build.sh
+*.crbf
+data/fonts/doc/page-*.bmp
+localization/check_bmp.py
+platform/*/TODO.txt
+
 syntax: regexp
