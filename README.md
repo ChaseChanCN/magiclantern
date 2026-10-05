@@ -10,7 +10,7 @@ Magic Lantern（魔灯，简称 ML）是一个为佳能数码相机提供额外�
 
 本项目是 Magic Lantern 的**中文（简体）汉化版**，由 [Chase Chan](https://github.com/ChaseChanCN) 维护，基于 ML 简化开发分支（simplified-dev）构建，已为 **30 款佳能相机**编译了可用的固件包。
 
-### ✨ 魔灯能做什么？
+###  魔灯能做什么？
 
 魔灯为你的佳能相机添加了大量专业级功能，涵盖摄影和摄像两大领域：
 
@@ -90,7 +90,7 @@ Magic Lantern（魔灯，简称 ML）是一个为佳能数码相机提供额外�
 
 > ⚠️ **注意**：并非所有功能在所有机型上都可用。较新的机型（DIGIC 6/7/8）功能可能受限。
 
-### 🔧 与原版的区别
+###  与原版的区别
 
 | 特性 | 原版 Magic Lantern | 本汉化版 |
 |------|-------------------|---------|
@@ -111,7 +111,7 @@ Magic Lantern（魔灯，简称 ML）是一个为佳能数码相机提供额外�
 
 > **注意**：顶层菜单名称（Audio、Expo、Modules 等）保留英文，因为它们是 `menu.c` 中的内部查找键，翻译会导致菜单系统失效。
 
-### 📦 安装到相机
+###  安装到相机
 
 #### 前提条件
 - 一张 **FAT32 格式**的 SD 卡（≤32GB 或已格式化为 FAT32 的大容量卡）
@@ -150,11 +150,10 @@ Magic Lantern（魔灯，简称 ML）是一个为佳能数码相机提供额外�
 
 5. **卸载 ML**
    - 在佳能菜单中选择「固件版本」→ 更新 → 确认
-   - 或格式化 SD 卡（会删除所有数据）
 
 > ⚠️ **风险提示**：安装 Magic Lantern 可能导致相机保修失效。请自行承担风险。详细风险说明请参考 [magiclantern.fm](https://magiclantern.fm/)。
 
-### 🛠️ 自行编译
+###  自行编译
 
 #### 环境要求
 - **操作系统**：Windows 10/11（推荐使用 Git Bash）
@@ -225,7 +224,7 @@ cd ../platform/70D.112
 make ARM_BINPATH="$BIN" -j4
 ```
 
-### 📝 项目结构
+###  项目结构
 
 ```
 magiclantern/
@@ -254,17 +253,17 @@ magiclantern/
 └── build_all.sh            # 批量编译脚本
 ```
 
-### 🙏 致谢
+###  致谢
 
 - [Magic Lantern 团队](https://magiclantern.fm/) — 原始项目开发
 - 所有 ML 社区贡献者
 - 简化开发分支（simplified-dev）的维护者
 
-### ⚖️ 许可证
+###  许可证
 
 GPL v2 或更高版本。详见 [LICENSE](LICENSE)。
 
-### 🔗 相关链接
+###  相关链接
 
 - 官方网站：[https://magiclantern.fm/](https://magiclantern.fm/)
 - 官方论坛：[https://magiclantern.fm/forum/](https://magiclantern.fm/forum/)
@@ -278,7 +277,7 @@ Magic Lantern (ML) is an open-source software enhancement platform that provides
 
 This project is a **Simplified Chinese localization** of Magic Lantern, maintained by [Chase Chan](https://github.com/ChaseChanCN), based on the ML simplified-dev branch. Firmware packages have been compiled for **30 Canon cameras**.
 
-### ✨ What Can Magic Lantern Do?
+###  What Can Magic Lantern Do?
 
 ML adds professional-grade features covering both photography and videography:
 
@@ -318,7 +317,7 @@ ML adds professional-grade features covering both photography and videography:
 - **Module System**: Load third-party modules
 - **Debug Tools**: Register viewer, memory monitor, task manager
 
-### 📷 Supported Cameras
+###  Supported Cameras
 
 Firmware packages have been successfully compiled for **30 cameras**:
 
@@ -358,7 +357,7 @@ Firmware packages have been successfully compiled for **30 cameras**:
 
 > ⚠️ **Note**: Not all features are available on all cameras. Newer cameras (DIGIC 6/7/8) may have limited functionality.
 
-### 🔧 Differences from Original ML
+###  Differences from Original ML
 
 | Feature | Original Magic Lantern | This Localization |
 |---------|----------------------|-------------------|
@@ -379,7 +378,7 @@ Firmware packages have been successfully compiled for **30 cameras**:
 
 > **Note**: Top-level menu names (Audio, Expo, Modules, etc.) remain in English as they are internal lookup keys in `menu.c` — translating them breaks the menu system.
 
-### 📦 Installation
+###  Installation
 
 #### Prerequisites
 - A **FAT32-formatted** SD card (≤32GB, or larger card formatted as FAT32)
@@ -422,7 +421,7 @@ Firmware packages have been successfully compiled for **30 cameras**:
 
 > ⚠️ **Disclaimer**: Installing Magic Lantern may void your camera warranty. Proceed at your own risk. See [magiclantern.fm](https://magiclantern.fm/) for details.
 
-### 🛠️ Building from Source
+###  Building from Source
 
 #### Requirements
 - **OS**: Windows 10/11 (Git Bash recommended)
@@ -492,7 +491,7 @@ cd ../platform/70D.112
 make ARM_BINPATH="$BIN" -j4
 ```
 
-### 📝 Project Structure
+###  Project Structure
 
 ```
 magiclantern/
@@ -521,17 +520,17 @@ magiclantern/
 └── build_all.sh            # Batch build script
 ```
 
-### 🙏 Credits
+###  Credits
 
 - [Magic Lantern Team](https://magiclantern.fm/) — Original project
 - All ML community contributors
 - simplified-dev branch maintainers
 
-### ⚖️ License
+###  License
 
 GPL v2 or later. See [LICENSE](LICENSE).
 
-### 🔗 Links
+###  Links
 
 - Official website: [https://magiclantern.fm/](https://magiclantern.fm/)
 - Official forum: [https://magiclantern.fm/forum/](https://magiclantern.fm/forum/)
