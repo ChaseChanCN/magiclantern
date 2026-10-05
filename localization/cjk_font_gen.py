@@ -78,12 +78,26 @@ def render_glyph(font_path, ch, pixel_height):
     scale = 4
     h = pixel_height * scale
     fnt = ImageFont.truetype(font_path, h)
-    # measure
+    # Render on a large canvas, find actual content, then center it
     bbox = fnt.getbbox(ch)
     w = max(1, bbox[2] - bbox[0])
-    img = Image.new("1", (w, h), 0)
+    # Use a tall canvas to render, then crop and center
+    canvas_h = h * 2
+    img = Image.new("1", (w, canvas_h), 0)
     d = ImageDraw.Draw(img)
-    d.text((-bbox[0], -bbox[1]), ch, font=fnt, fill=1)
+    d.text((-bbox[0], (canvas_h - h) // 2 - bbox[1]), ch, font=fnt, fill=1)
+    # Find actual content bounds
+    content_bbox = img.getbbox()
+    if content_bbox:
+        content_h = content_bbox[3] - content_bbox[1]
+        # Create final image with content vertically centered in h
+        final = Image.new("1", (w, h), 0)
+        paste_y = (h - content_h) // 2
+        crop = img.crop((0, content_bbox[1], w, content_bbox[3]))
+        final.paste(crop, (0, paste_y))
+        img = final
+    else:
+        img = Image.new("1", (w, h), 0)
     if pixel_height != h:
         img = img.resize((max(1, w // scale), pixel_height), Image.LANCZOS)
     w = img.width
