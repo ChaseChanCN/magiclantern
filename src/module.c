@@ -549,7 +549,7 @@ static void _module_load_all(uint32_t list_only)
     struct fio_dirent * dirent = FIO_FindFirstEx( MODULE_PATH, &file );
     if( IS_ERROR(dirent) )
     {
-        NotifyBox(2000, "Module dir missing" );
+        NotifyBox(2000, "模块目录缺失" );
         tcc_delete(state); console_show();
         return;
     }
@@ -625,7 +625,7 @@ static void _module_load_all(uint32_t list_only)
             module_cnt++;
             if (module_cnt >= MODULE_COUNT_MAX)
             {
-                NotifyBox(2000, "Too many modules" );
+                NotifyBox(2000, "模块数量过多" );
                 break;
             }
         }
@@ -1799,12 +1799,12 @@ static int module_show_about_page(int mod_number)
             
             if (module_build_date && module_build_user)
             {
-                bmp_printf(fnt_special, 10, 480-font_med.height, "Built on %s by %s.", module_build_date, module_build_user);
+                bmp_printf(fnt_special, 10, 480-font_med.height, "构建于 %s 由 %s.", module_build_date, module_build_user);
             }
             
             if (module_last_update)
             {
-                bmp_printf(fnt_special, 10, 480-font_med.height * lines_for_update_msg, "Last update: %s", module_last_update);
+                bmp_printf(fnt_special, 10, 480-font_med.height * lines_for_update_msg, "最后更新: %s", module_last_update);
             }
             
             return 1;
@@ -1922,7 +1922,7 @@ static MENU_UPDATE_FUNC(module_menu_info_update)
     {
         bmp_printf(FONT_MED, x - 32, y, "%s", module_list[mod_number].long_filename);
         y += font_med.height;
-        bmp_printf(FONT_MED, x - 32, y, "More info after you load this module.");
+        bmp_printf(FONT_MED, x - 32, y, "加载此模块后查看更多信息。");
     }
 }
 
@@ -2166,7 +2166,7 @@ static void module_unload_offline_strings(int mod_number)
 
 static void module_load_task(void* unused) 
 {
-    char *lockstr = "If you can read this, ML crashed last time. To save from faulty modules, autoload gets disabled.";
+    char *lockstr = "如果你能看到这条消息，说明ML上次崩溃了。为防止故障模块导致问题，自动加载已禁用。";
 
     if(!module_autoload_disabled)
     {
@@ -2175,7 +2175,7 @@ static void module_load_task(void* unused)
         {
             /* uh, it seems the camera didnt shut down cleanly, skip module loading this time */
             msleep(1000);
-            NotifyBox(10000, "Camera was not shut down cleanly.\r\nSkipping module loading." );
+            NotifyBox(10000, "相机未正常关机。\r\n跳过模块加载。" );
         }
         else
         {
